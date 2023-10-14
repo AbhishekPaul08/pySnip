@@ -10,6 +10,7 @@ def auto(n):
         keyboard.press(Key.enter)
         time.sleep(0.01)
 
+# code to auto type in your editor
 n='''
 # # Python3 program for the above approachcodeiscontributedbym
 # from math import sqrt, floor, ceil
@@ -67,9 +68,6 @@ n='''
 
 # 	# Function call
 # 	print(minSquares(N))
-
-# # This code is contributed by mohit kumar 29
-
 '''
 auto(n) #this function is to call
 
